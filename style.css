@@ -1,0 +1,26 @@
+html, body
+{
+    height: 100%;
+    margin: 0;
+}
+.cabessario
+{
+    background-color: rgb(0, 0, 0);
+    box-shadow: 0 2px 4px rgba(0, 0,0, 0.5);
+    padding: auto;
+}
+.organizar_cabesario
+{
+    background-color: aliceblue;
+    
+}
+.button
+{
+    background-color: black;
+}
+
+.rodape
+{
+    text-align: center;
+    margin-bottom: 0%;
+}
